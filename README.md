@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kazenzi
 - 👀 I’m interested in  web development 
 - 🌱 I’m currently learning android development
-- 💞️ I’m looking to collaborate on web and android projects
+- 💞️ I’m looking forward to collaborate on web and android projects
 - 📫 How to reach me jacintakazenzi99@gmail.com
 
 <!---
